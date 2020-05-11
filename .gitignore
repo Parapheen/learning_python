@@ -1,0 +1,6 @@
+.vscode/
+.ipynb_checkpoints/
+.idea
+.DS_store
+
+stepik_tests/venv
